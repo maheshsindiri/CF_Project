@@ -10,7 +10,7 @@
 <body>
 	<h1>Registration Form VINODH123</h1>
 	<form action="actionfile.cfm" method="POST">
-		<label>FirstName : </label>
+		<label>FirstName : Mahesh</label>
 		<input type="text"  name="fname">
 
 		<label >LastName : </label>
